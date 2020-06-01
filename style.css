@@ -1,9 +1,7 @@
 body{
   margin: 0;
   padding: 0;
-  backgroung: url(file:///home/chronos/u-10e3236731dc6b3cddba303d6a3b0c54871422b2/MyFiles/BriBan%20inc/Bloxystore.png);
-  background-size: cover;
-  background-position: center;
+  backgroung: #0000FF;
   font-family: sans-serif;
 }
 
